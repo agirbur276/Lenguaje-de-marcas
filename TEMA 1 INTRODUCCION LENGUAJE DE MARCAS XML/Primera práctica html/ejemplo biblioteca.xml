@@ -1,0 +1,25 @@
+<?xml-stylesheet type="text/css" href="estilo.css"?>
+<?xmlversion="1.0" encoding="utf-8"?>
+<!DOCTYPE biblioteca>
+<ciudad>
+    <ciudades>
+        <titulo>El imperio final</titulo>
+        <autor apodo="brasen">Brandom Sanderson</autor>
+        <fecha>2015</fecha>
+        <paginas>200</paginas>
+    </ciudades>
+    <ciudades>
+        <titulo>El camino</titulo>
+        <autor>Miguel Delibes</autor>
+        <fecha>1970</fecha>
+        <paginas>200</paginas>
+    </ciudades>
+    <ciudades>
+        <titulo>Harry Potter</titulo>
+        <autor>J.K Rowling</autor>
+        <fecha>2012</fecha>
+        <paginas>190</paginas>
+    </ciudades>
+</ciudad>
+
+
