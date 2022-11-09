@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shiporder orderid="hello">
+  <orderperson></orderperson>
+  <shipto>
+    <name>shiporder</name>
+    <address>123</address>
+    <city>no</city>
+    <country>no</country>
+  </shipto>
+  <item>
+    <title>shipto</title>
+    <note>567</note>
+    <quantity>345</quantity>
+    <price>789</price>
+  </item>
+</shiporder>
+

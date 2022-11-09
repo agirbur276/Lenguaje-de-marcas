@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libro SYSTEM "ejercicio2.dtd">
+<libro>
+    <titulo></titulo>
+    <seccion></seccion>
+    <subseccion></subseccion>
+    <contenido>
+        <capitulo></capitulo>
+    </contenido> 
+</libro>
