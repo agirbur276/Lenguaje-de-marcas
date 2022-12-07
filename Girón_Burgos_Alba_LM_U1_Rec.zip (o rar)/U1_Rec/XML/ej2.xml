@@ -1,0 +1,112 @@
+<Tiendas_centro_comercial>
+    <tienda>
+        <nombre>Tienda 1</nombre>
+        <parcelas_que_ocupa>2</parcelas_que_ocupa>
+        <metros_cuadrados>24</metros_cuadrados>
+        <datos_de_encargado>
+            <nombre>Juan</nombre>
+            <apellidos>Guijo García</apellidos>
+            <teléfono>56155448757</teléfono>
+            <NSS>12121</NSS>
+        </datos_de_encargado>
+    </tienda>
+    <tienda>
+        <nombre>Tienda 2</nombre>
+        <parcelas_que_ocupa>4</parcelas_que_ocupa>
+        <metros_cuadrados>35</metros_cuadrados>
+        <datos_de_encargado>
+            <nombre>Antonio</nombre>
+            <apellidos>Garcia Perez</apellidos>
+            <teléfono>454545646</teléfono>
+            <NSS>41521221</NSS>
+        </datos_de_encargado>
+    </tienda>
+    <tienda>
+        <nombre>Tienda 3</nombre>
+        <parcelas_que_ocupa>5</parcelas_que_ocupa>
+        <metros_cuadrados>100</metros_cuadrados>
+        <datos_de_encargado>
+            <nombre>Julia</nombre>
+            <apellidos>Cordero Sánchez</apellidos>
+            <teléfono>4154144</teléfono>
+            <NSS>54424</NSS>
+        </datos_de_encargado>
+    </tienda>
+    <tienda>
+        <nombre>Tienda 4</nombre>
+        <parcelas_que_ocupa>1</parcelas_que_ocupa>
+        <metros_cuadrados>12</metros_cuadrados>
+        <datos_de_encargado>
+            <nombre>Lucía</nombre>
+            <apellidos>Ruda Toledo</apellidos>
+            <teléfono>1565465</teléfono>
+            <NSS>0115</NSS>
+        </datos_de_encargado>
+    </tienda>
+    <tienda>
+        <nombre>Tienda 5</nombre>
+        <parcelas_que_ocupa>2</parcelas_que_ocupa>
+        <metros_cuadrados>59</metros_cuadrados>
+        <datos_de_encargado>
+            <nombre>Marcelo</nombre>
+            <apellidos>Burgos Romero</apellidos>
+            <teléfono>15156</teléfono>
+            <NSS>1541</NSS>
+        </datos_de_encargado>
+    </tienda>
+    <tienda>
+        <nombre>Tienda 6</nombre>
+        <parcelas_que_ocupa>5</parcelas_que_ocupa>
+        <metros_cuadrados>4544</metros_cuadrados>
+        <datos_de_encargado>
+            <nombre>Diego</nombre>
+            <apellidos>Sanchez Serrano</apellidos>
+            <teléfono>155456</teléfono>
+            <NSS>14</NSS>
+        </datos_de_encargado>
+    </tienda>
+    <tienda>
+        <nombre>Tienda 7</nombre>
+        <parcelas_que_ocupa>25</parcelas_que_ocupa>
+        <metros_cuadrados>1544</metros_cuadrados>
+        <datos_de_encargado>
+            <nombre>Carla</nombre>
+            <apellidos>García Sánchez</apellidos>
+            <teléfono>15454</teléfono>
+            <NSS>15</NSS>
+        </datos_de_encargado>
+    </tienda>
+    <tienda>
+        <nombre>Tienda 8</nombre>
+        <parcelas_que_ocupa>2</parcelas_que_ocupa>
+        <metros_cuadrados>58</metros_cuadrados>
+        <datos_de_encargado>
+            <nombre>Hugo</nombre>
+            <apellidos>Cabas Vehga </apellidos>
+            <teléfono>154454</teléfono>
+            <NSS>4154</NSS>
+        </datos_de_encargado>
+    </tienda>
+    <tienda>
+        <nombre>Tienda 9</nombre>
+        <parcelas_que_ocupa>8</parcelas_que_ocupa>
+        <metros_cuadrados>56</metros_cuadrados>
+        <datos_de_encargado>
+            <nombre>Teresa</nombre>
+            <apellidos>Guijo Burgos</apellidos>
+            <teléfono>15145</teléfono>
+            <NSS>1514</NSS>
+        </datos_de_encargado>
+    </tienda>
+    <tienda>
+        <nombre>Tienda 10</nombre>
+        <parcelas_que_ocupa>4</parcelas_que_ocupa>
+        <metros_cuadrados>65</metros_cuadrados>
+        <datos_de_encargado>
+            <nombre>Irene</nombre>
+            <apellidos>Anisis Miguel</apellidos>
+            <teléfono>11554</teléfono>
+            <NSS>15</NSS>
+        </datos_de_encargado>   
+    </tienda>
+</Tiendas_centro_comercial>

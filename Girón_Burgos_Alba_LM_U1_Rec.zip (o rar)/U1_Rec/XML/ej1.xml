@@ -1,0 +1,37 @@
+
+<libro>
+    <titulo>El libro de la selva </titulo>
+    <editorial>Santillana</editorial>
+    <numero_de_páginas>136</numero_de_páginas>
+    <autor>Antonio</autor>
+    <capitulo>
+        <titulo>Capitulo 1</titulo>
+        <página_de_inicio>1</página_de_inicio>
+        <página_de_finalizaión>15</página_de_finalizaión>
+    </capitulo>
+    <capitulo>
+        <titulo>Capitulo 2</titulo>
+        <página_de_inicio>16</página_de_inicio>
+        <página_de_finalizaión>45</página_de_finalizaión>
+    </capitulo>
+    <capitulo>
+            <titulo>Capitulo 3</titulo>
+            <página_de_inicio>46</página_de_inicio>
+            <página_de_finalizaión>68</página_de_finalizaión>
+    </capitulo>
+    <capitulo>
+        <titulo>Capitulo 4</titulo>
+        <página_de_inicio>69</página_de_inicio>
+        <página_de_finalizaión>78</página_de_finalizaión>
+    </capitulo>
+    <capitulo>
+        <titulo>Capitulo 5</titulo>
+        <página_de_inicio>79</página_de_inicio>
+        <página_de_finalizaión>100</página_de_finalizaión>
+    </capitulo>
+    <capitulo>
+        <titulo>Capitulo 6</titulo>
+        <página_de_inicio>101</página_de_inicio>
+        <página_de_finalizaión>136</página_de_finalizaión>
+    </capitulo>
+</libro>
