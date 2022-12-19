@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ej2</title>
+    <style>
+        td,
+        th {
+            border: 1px solid black;
+            border-width: 4px;
+            border-style: solid;
+            border-color: blue;
+            border-collapse: collapse;
+        }
+        
+        table {
+            border-collapse: separate; 
+            border-color: blue;
+        }
+    </style>
+</head>
+<table border="4">
+    <caption>Advanced HTML tag for Table using thead, tbody and tfoot</caption>
+    <thead>
+        <tr>
+            <th colspan="3">Purchase order:987654321</th>
+            <th colspan="2">Tutorialbrain -10th Oct 2020</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Vendedor:</b><br>ABC XYTZ itd <br> DUMMY STREET<br>BUILDNG 123<br>HAZARIBAGH,825301 </td>
+            <td colspan="2"><b>SHIP TO:</b><br> MS DHONI<br>WILSON GARDEN<br>SOUTHEAST BLOCK,RANCHI-83401</td>
+        </tr>
+        <tr>
+            <th>Qty</th>
+            <th>Item Code</th>
+            <th>Description</th>
+            <th>Unit Price</th>
+        </tr>
+        <tr>
+            <td>100</td>
+            <td>IABCDE</td>
+            <td>Pencils</td>
+            <td>20.00</td>
+        </tr>
+        <tr>
+            <td>1000</td>
+            <td>In877</td>
+            <td>Notebooks</td>
+            <td>100.00</td>
+        </tr>
+        <tr>
+            <td colspan="3" style="text-align:center;"><b>Subtotal</b></td>
+            <td>190.00</td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align:center;"><b>GST</b></td>
+            <td>5%</td>
+            <td>9.50</td>
+        </tr>
+        <tr>
+            <td colspan="3" style="text-align:center;"><b>Grand Total</b></td>
+            <td>$199.50</td>
+        </tr>
+    </tbody>
