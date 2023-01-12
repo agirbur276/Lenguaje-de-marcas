@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+
+    <title>Document</title>
+</head>
+
+
+<body>
+    <h1>Ejercicio Práctico con Tablas</h1>
+    <table>
+        <thead>
+            <tr>
+                <th></th>
+                <th id="blue2" colspan="3" style="text-align:center" ;>
+                    <img class="pequeña" src="imagenes/mp3.jpg" />
+                </th>
+                <th id="blue2" colspan="2" style="text-align:center" ;>
+                    <img class="pequeña" src="imagenes/descarga.png" />
+                </th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th id="rojo">Capacidad</th>
+                <td id="grey">2GB</td>
+                <td id="grey">4GB</td>
+                <td id="grey">8GB</td>
+                <td id="grey">32GB</td>
+                <td id="grey">2GB</td>
+            </tr>
+            <tr>
+                <th id="rojo">Colores</th>
+                <td><b>Blanco</b></td>
+                <td>
+                    <ul id="letraroja" type="disc">
+                        <li>Negro</li>
+                        <li>Rosa</li>
+                        <li>Dorado</li>
+                    </ul>
+                </td>
+                <td><b>Negro</b></td>
+                <td id="blue" colspan="2">
+                    <ul type="disc">
+                        <li><b>Negro</b></li>
+                        <li><b>Blanco</b></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td id="rojo">Pantalla</td>
+                <td id="blue2" colspan="3"><b>3 pulgadas</b></td>
+                <td id="blue2" colspan="2"><b>7 pulgadas</b></td>
+            </tr>
+            <tr>
+                <th id="rojo" rowspan="2">Tiempo de Carga</th>
+                <td id="blue2" rowspan="2" colspan="3"><b>1 hora</b></td>
+                <td id="yellow" colspan="2"><b>5 horas</b></td>
+
+            </tr>
+            <tr>
+                <td id="blue2" colspan="2"><b>30 minutos para 75%</b></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
