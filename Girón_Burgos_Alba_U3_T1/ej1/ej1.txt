@@ -1,0 +1,30 @@
+/* This is a comment */
+/* Style Sheet for Jaberwocky Tutorial */
+
+/* Body */
+Se le ha añadido un color de fondo  especificamente el color (tan) a todo el body.
+
+/* Headers */
+Se le ha añadido un color de letra (maroon) y se ha modificado el tamaño de la letra (20pt) a el título de este html.
+
+
+/* HR (Hard Rule = line) */
+Se le ha añadido a todos los hr un color de letra (navy)
+
+
+/* Paragraphs */
+Se le a añadido a los (p)un tamaño de letra (12pt) y un margen a la izquierda (15px) y en el p.verse, se le ha añadido un color de fuente maroon y un margen a la isquierda de 60px
+
+
+/* Divs */
+
+
+/* Links */
+En los links  se le ha puesto un color de letra green, en el visited se le ha puesto un color de letra amarillo, en el hover un color de letra nero, y en el active un color de letra azul
+
+
+/* Navigation */
+
+/* Classes used by all html elements */
+
+/* Ids */
