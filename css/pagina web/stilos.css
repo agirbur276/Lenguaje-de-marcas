@@ -1,0 +1,201 @@
+
+*{
+    box-sizing: border-box;
+}
+#fondo {
+    background: linear-gradient(to right),url(imagenes/vaca.png)¡;
+}
+
+#tit {
+    display: grid;
+    background-color: rgba(109,155,34,255);
+    color: white;
+    font-size: 25px;
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 500px;
+}
+#tit2 {
+    display: grid;
+    align-items: start;
+    background-color: rgba(58,93,6,255);
+    color: white;
+    font-size: large;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+#cabeza img{
+    float: right;
+    width: 19%;
+    padding-top: 0.02%;
+    margin-right: 170px;
+}
+.paquete{
+    margin-top: 20px;
+    background-color: rgba(238,238,238,255);
+    padding-bottom: 30%;
+    margin-left:130px ;
+    margin-right:130px ;
+
+}
+.vaca{
+    float: left;
+    margin-left: 30px;
+}
+.vaca img{
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.vaca ul{
+    font-size: larger;
+    color: rgb(48, 47, 47);
+    font-weight: bold;
+    
+}
+.buttom{
+    float: left;
+}
+.twit {
+    float: left;
+    height: 20px;
+    width: 70px;
+    background-size: 30px 30px;
+    background-position:center;
+    border-radius: 2px;
+    border: 1px solid grey;
+    text-decoration: none;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    margin-top: 50px;
+    margin-left: 20px;
+    background-color: white;
+    margin-right: 10px;
+  }
+  .twit span{
+    margin-right: 4px;
+  }
+  .twit img{
+    margin-top: 2px;
+    float: left;
+    width: 20px;
+  }
+  .g {
+    float: left;
+    height: 20px;
+    width: 70px;
+    background-size: 30px 30px;
+    background-position:center;
+    border-radius: 2px;
+    border: 1px solid grey;
+    text-decoration: none;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    margin-top: 50px;
+    margin-left: 20px;
+    background-color: white;
+    margin-right: 10px;
+    clear: both;
+  }
+  .g span{
+    margin-right: 18px;
+    font-size: 13px;
+  }
+  .g img{
+    float: left;
+    width: 18px;
+  }
+  .face {
+    float: left;
+    height: 20px;
+    width: 70px;
+    background-size: 30px 30px;
+    background-position:center;
+    border-radius: 2px;
+    border: 1px solid grey;
+    text-decoration: none;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    margin-top: 55px;
+    margin-left: 20px;
+    background-color: white;
+    margin-right: 10px;
+    clear: both;
+  }
+.face span{
+    margin-right: 20px;
+}
+  .face img{
+    float: left;
+    width: 18px;
+  }
+.formulario{
+    margin-top: 20px;
+    float: left;
+    margin-left: 90px;
+    width: 30%;
+    background-color: rgba(221,221,221,255);
+    
+}
+.cabecita{
+    background-color: #ad3f13;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;   
+}
+.formulario>input{
+  background-color: red;
+  border-radius: 5px;
+  color: white;
+  border-color: red;
+  font-size: x-large;
+  text-align: center;
+  min-width: 120px;
+  text-align:center;
+  margin-left: 15%;
+  height: 40px;
+  font-weight: bolder;
+  text-align: center;
+}
+.input1{
+  padding-right: 41px;
+  text-align: center;
+  padding-left: 45px;
+}
+.input2{
+  margin-bottom: 50px;
+}
+.titulo{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bolder;
+  font-size: larger;
+}
+.texto{
+    margin-left: 40px;
+}
+.one{
+  position: absolute;
+  top: 33%;
+  left: 11.5%;
+  width: 80px;
+}
+.two{
+  position: absolute;
+  top: 43.3%;
+  left: 11.5%;
+  width: 80px;
+}
+.three{
+  position: absolute;
+  top: 51.3%;
+  left: 11.5%;
+  width: 70px;
+}
+
+
