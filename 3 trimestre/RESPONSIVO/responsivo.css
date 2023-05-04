@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 90%;
+    margin: 0px auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container>div {
+    height: 100px;
+    width: 100%;
+}
+
+img {
+    width: 100%;
+}
+
+#amarillo {
+    background-color: rgb(249, 249, 170);
+}
+
+#azul {
+    background-color: rgb(91, 172, 242);
+}
+
+@media screen and (min-width:576px) {
+    #img,
+    #amarillo {
+        width: 50%;
+    }
+}
+
+@media screen and (min-width:992px) {
+    #img,
+    #amarillo,
+    #azul {
+        width: 33%
+    }
+}
